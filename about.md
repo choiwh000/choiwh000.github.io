@@ -30,15 +30,11 @@ hide_description: true
 > Mar.2019 ~ Feb.2023 한국공학대학교
 >
 > 미디어디자인공학과 (MEDIA DESIGN ENGINEERING)
+
 ## Research Interest
- 
 ---
-* Front-End Develop
-  + image Object Detection
-  + Vot
-+ Semantic/Instance Segmentation + Super Resolution
+* Front-End Development
 * UI/UX Design
-    + Few-Shot Learning
 
 ## My Project
 ---
@@ -62,7 +58,7 @@ hide_description: true
 ---
 * <strong>PROJECT MOD</strong>, NEXON
 
-## Skills and Certification
+## Skills
 ---
 -Language : JavaScript <br>
 -FrameWork: React.js, jQuery <br>
