@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Example1_post1
+title: 예시1_포스트1
+subtitle: 부제목 예시
+tags: 태그
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Howdy! 
 sitemap: false
 hide_last_modified: true
 categories:

@@ -12,16 +12,15 @@ hide_description: true
 <!--author-->
 
 ***
-<center>
+<div>
 <span style="font-size:170%;font-weight:bold"> 최우형
 </span>
-</center>
+</div>
+<div>MAJOR :MEDIA DESIGN ENGINEERING</div>
 
-<center>MAJOR :MEDIA DESIGN ENGINEERING</center>
+<div>Tech University of Korea</div>
 
-<center>Tech University of Korea</center>
-
-<center>237, Sangidaehak-ro, Siheung-si, Gyeonggi-do</center>
+<div>237, Sangidaehak-ro, Siheung-si, Gyeonggi-do</div>
 ## Personal Data
 ---
 > 2000.09.15 대한민국 출생> 연락처: choiwh000@naver.com
