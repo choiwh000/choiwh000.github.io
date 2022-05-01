@@ -28,7 +28,7 @@ description:           >
   포트폴리오입니다.
 
 # A shorter description for the sidebar.
-tagline:               한국공학대학교 미디어디자인전공 
+tagline:               한국공학대학교 미디어디자인전공
 
 # A list of keywords for your blog
 keywords:              [FrontEnd, git, gitblog, FE]
@@ -90,7 +90,7 @@ remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
- 
+
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
@@ -219,7 +219,7 @@ hydejack:
   # This will increase site build speed dramatically!
   no_inline_css:       false
 
-  # Set to `true` if you don't intend on changing the accent color on a per-page basis. 
+  # Set to `true` if you don't intend on changing the accent color on a per-page basis.
   # This will increase site build speed!
   no_page_style:       false
 
@@ -262,7 +262,7 @@ hydejack:
 
   # Buyers of the PRO version can opt to hide all dates from the theme.
   # Frequent consumers of online content will know that nothing devalues a post like
-  # seeing an old date. 
+  # seeing an old date.
   hide_dates:          false
 
   # TODO
@@ -403,21 +403,21 @@ jekyll_compose:
   default_front_matter:
     drafts:
       layout: post
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:

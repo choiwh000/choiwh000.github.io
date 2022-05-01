@@ -47,3 +47,47 @@
   margin-top: 20px !important;
 
 }
+
+.content a:not(.btn):not(.no-hover) {
+    text-decoration-color: #e45649;
+}
+
+
+.markdown-body > p > a {
+  font-weight: bold !important;
+  color: #e45649;
+}
+
+.markdown-body > ul > li > a{
+  font-weight: bold !important;
+  color: #e45649;
+}
+
+.markdown-body > ol > li > p > a{
+  font-weight: bold !important;
+  color: #e45649;
+}
+
+.markdown-body {
+  kbd {
+    font-size: 15px;
+    font-family: monospace;
+    color: #333;
+    background-color: #fcfcfc;
+    border: solid 1px #ccc;
+    border-radius: 3px;
+    border-bottom-color: #bbb;
+    padding: 3px 5px;
+  }
+
+  mark {
+    padding: 3px 5px;
+    background-color: #fff9c4;
+  }
+
+  under {
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-underline-position: under;
+  }
+}
