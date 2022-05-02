@@ -5,7 +5,7 @@ slug: portfolio
 menu: true
 submenu: true
 description: >
-  하위 메뉴 예시
+  포트폴리오
 ---
 
 # Portfolio - 준비 중
@@ -16,7 +16,7 @@ description: >
 * [UX]{:.heading.flip-title} --- UX portfolio
 
 [FE]: /front-end-portfolio/
-[UX]: /User-experience-portfolio/
+[UX]: /user-experience-portfolio/
 
 <!-- ---
 # Featured tags need to have either the `list` or `grid` layout (PRO only).

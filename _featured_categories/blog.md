@@ -5,7 +5,7 @@ slug: subcat
 menu: true
 submenu: true
 description: >
-  하위 메뉴 예시
+  블로그
 ---
 
 # Blog

@@ -4,7 +4,7 @@ category: subcat
 bigtitle: Etc
 slug: etc
 description: >
-  etc.
+  etc. blog
 
 related_posts:
     - 
