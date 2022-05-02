@@ -8,12 +8,14 @@ description: >
   하위 메뉴 예시
 ---
 
-# Subcat
+# Blog
 
 ## 카테고리
 
-* [Test1]{:.heading.flip-title} --- 테스트 1
-* [Test2]{:.heading.flip-title} --- 테스트 2
+* [FE]{:.heading.flip-title} --- Front-end blog
+* [UX]{:.heading.flip-title} --- UX blog
+* [etc.]{:.heading.flip-title} --- etc. blog
 
-[Test1]: /test1/
-[Test2]: /test2/
+[FE]: /front-end-blog/
+[UX]: /User-experience-blog/
+[etc.]: /etc-blog/

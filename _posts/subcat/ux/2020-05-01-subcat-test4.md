@@ -9,8 +9,8 @@ description: >
 sitemap: false
 categories:
   - subcat
-  - test2
+  - ux
 ---
 
-# Subcat-Test2_post1
+# UX-blog _ 준비 중
   안녕하세요

@@ -34,6 +34,7 @@ hide_description: true
 ---
 * Front-End Development
 * UI/UX Design
+* UX Research
 
 ## My Project
 ---
@@ -52,6 +53,8 @@ hide_description: true
   + 2021 선행인터랙션 디자인, 개인 - [인터랙션 아이디어](/assets/pdf/Interaction-Idea.pdf)
   + 2021 졸업전시회 사이트, 팀 - [졸업전시](https://su-aj815.github.io/Graduation-Works-Site/)
   + ~ing 롯데그룹과 옴니채널 전략, 롯데 관계자
+  + ~ing A Study on Multicultural Families, 시흥시
+  + ~ing A learning planner for children, 한국공학대학교 졸업작품
 
 ## External Activities
 ---

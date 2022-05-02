@@ -1,10 +1,10 @@
 ---
 layout: list
-category: subcat
-bigtitle: Test1
-slug: test1
+category: subcat-p
+bigtitle: FE-P
+slug: fe-p
 description: >
-  하위메뉴 테스트1
+  Front-end blog
 
 related_posts:
     - 

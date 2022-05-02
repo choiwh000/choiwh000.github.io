@@ -1,13 +1,13 @@
 ---
 layout: list
 category: subcat
-bigtitle: Test2
-slug: test2
+bigtitle: FE
+slug: fe
 description: >
-  하위메뉴 테스트2
+  Front-end blog
 
 related_posts:
     - 
 list: true
-order: 2
+order: 1
 ---
