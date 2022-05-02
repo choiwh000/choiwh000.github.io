@@ -4,7 +4,7 @@ category: subcat-p
 bigtitle: FE-P
 slug: fe-p
 description: >
-  Front-end blog
+  Front-end portfolio
 
 related_posts:
     - 

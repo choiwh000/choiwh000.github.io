@@ -4,7 +4,7 @@ category: subcat-p
 bigtitle: UX-P
 slug: ux-p
 description: >
-  UX blog
+  UX portfolio
 
 related_posts:
     - 
