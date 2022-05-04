@@ -44,7 +44,7 @@ hide_description: true
   + 2021 Sketch-Book, 개인 - [스케치북](https://choiwh000.github.io/Paint-JS/)
   + 2021 Movies-Site, 개인 - [영화사이트](https://choiwh000.github.io/Movies/)
   + 2021 VR-Contents, 팀 - [반 고흐 전시회](/assets/pdf/VR-contents.pdf)
-  + 2021 Weather-App, 개인 - [날씨 앱](https://choiwh000.github.io/weather-app/)
+  <!-- + 2021 Weather-App, 개인 - [날씨 앱](https://choiwh000.github.io/weather-app/) -->
   + 2022 With-Home, 개인 - [윗홈](https://choiwh000.github.io/WithHome/)
   + ~ing A Study on Multicultural Families, 시흥시
   + ~ing A learning planner for children, 한국공학대학교 졸업작품
