@@ -28,7 +28,7 @@ description:           >
   포트폴리오입니다.
 
 # A shorter description for the sidebar.
-tagline:               한국공학대학교 미디어디자인전공
+tagline:               한국공학대학교 미디어디자인공학전공
 
 # A list of keywords for your blog
 keywords:              [FrontEnd, git, gitblog, FE]
@@ -36,7 +36,7 @@ keywords:              [FrontEnd, git, gitblog, FE]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+# logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
