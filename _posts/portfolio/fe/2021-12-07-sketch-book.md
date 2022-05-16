@@ -2,7 +2,7 @@
 layout: post
 title: Sketch-book
 description: >
-    Canvas를 활용한 스케치북을 제작하였습니다.
+    Canvas를 활용하여 스케치북을 제작하였습니다.
 sitemap: false
 hide_last_modified: false
 categories:
