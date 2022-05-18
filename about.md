@@ -39,7 +39,6 @@ hide_description: true
 ## My Project
 ---
 * FE
-  + 2021 졸업전시회 사이트, 팀 - [졸업전시](https://su-aj815.github.io/Graduation-Works-Site/)
   + 2021 To-Do-List, 개인 - [투두리스트](https://choiwh000.github.io/Vanilla-JS/)
   + 2021 Sketch-Book, 개인 - [스케치북](https://choiwh000.github.io/Paint-JS/)
   + 2021 Movies-Site, 개인 - [영화사이트](https://choiwh000.github.io/Movies/)
@@ -51,7 +50,7 @@ hide_description: true
 
 * UX Design
   + 2021 선행인터랙션 디자인, 개인 - [인터랙션 아이디어](/assets/pdf/Interaction-Idea.pdf)
-  + 2021 졸업전시회 사이트, 팀 - [졸업전시](https://su-aj815.github.io/Graduation-Works-Site/)
+  + 2021 졸업전시회 사이트, 팀 - [졸업전시](https://choiwh000.github.io/portfolio/ux-p/2021-12-20-zolzak_site_ux/)
   + ~ing 롯데그룹과 옴니채널 전략, 롯데 관계자
   + ~ing A Study on Multicultural Families, 시흥시
   + ~ing A learning planner for children, 한국공학대학교 졸업작품
