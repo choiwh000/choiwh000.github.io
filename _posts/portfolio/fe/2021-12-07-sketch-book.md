@@ -13,7 +13,7 @@ categories:
 ### Sketch-book
 
 아직 준비 중입니다. <br>
-간략한 내용은 [About] 에서 확인해주세요!
+간략한 내용은 [About] 에서 확인해주세요!!
 
 [About]: /about/#my-project
 
