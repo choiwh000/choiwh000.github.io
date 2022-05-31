@@ -33,4 +33,4 @@ categories:
 
 ### 📌Output
 
-[🏠 PDF](assets\pdf\VR-contents.pdf)
+[🏠 PDF](/assets/pdf/VR-contents.pdf)
