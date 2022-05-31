@@ -18,11 +18,15 @@ categories:
 또한 학생과 기업 간의 커뮤니케이션이 가능하도록 하는 사이트로, 면접 제안과 자소서 제출 등의 기능을 제공합니다.
 본 사이트를 통해 졸업생들은 졸업 작품 외에도 개인 포트폴리오를 업로드하여 개인의 역량을 뽐낼 수 있습니다.  
 ~~~
-
+----
 
 ![그림2](/assets/img/pofol/zolzak-site/zolzak-site.png)
 
-<hr>
+----
+
+### 📌Output
+
+
 
 [🏠 Demo](https://su-aj815.github.io/Graduation-Works-Site/)
 
