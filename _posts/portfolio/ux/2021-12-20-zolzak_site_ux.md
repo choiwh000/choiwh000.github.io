@@ -31,7 +31,3 @@ categories:
 + 작동 화면
 
 ![그림1](/assets/img/pofol/zolzak-site/zolzak-site.gif)
-
-
-
-[About]: /about/#my-project
