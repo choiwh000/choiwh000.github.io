@@ -9,14 +9,13 @@ categories:
   - portfolio
   - fe-p
 ---
+<!-- ### XR 디자인-UX -->
 
-### A Study on Multicultural Families-FE
+### 📝Description
+~~~html
+본 작품은 지역사회참여형 프로젝트로 시흥시와 협력하여 사회 문제를 발굴하고,
+창의적으로 사회 문제를 XR 디자인을 통해 문제를 해결하기 위한 프로젝트입니다.
+~~~
 
-********** 현재 진행 중인 프로젝트입니다. **********
-
-  <br>
-간략한 내용은 [About] 에서 확인해주세요!
-
-[About]: /about/#my-project
-
-
+----
+🚀현재 진행 중인 프로젝트입니다.🚀
