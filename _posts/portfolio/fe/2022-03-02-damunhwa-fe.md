@@ -18,4 +18,16 @@ categories:
 ~~~
 
 ----
+
+### 💻Skills
+~~~html
+> Figma
+> Blender
+> Protopie
+> Reality Composer
+> Premiere Pro
+~~~
+
+----
+
 🚀현재 진행 중인 프로젝트입니다.🚀

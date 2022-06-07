@@ -31,6 +31,16 @@ categories:
 ~~~
 ----
 
+### 💻Skills
+~~~html
+> html
+> css
+> JavaScript
+> three.js
+~~~
+
+----
+
 ### 📌Output
 
 [🏠 PDF](/assets/pdf/VR-contents.pdf)

@@ -30,6 +30,15 @@ categories:
 ~~~
 ----
 
+### 💻Skills
+~~~html
+> html
+> css
+> JavaScript
+~~~
+
+----
+
 ### 📌Output
 
 [🏠 Demo](https://choiwh000.github.io/Paint-JS/)

@@ -24,6 +24,16 @@ categories:
 
 ----
 
+### 💻Skills
+~~~html
+> html
+> css
+> JavaScript
+> Figma
+~~~
+
+----
+
 ### 📌Output
 
 [🏠 Demo](https://su-aj815.github.io/Graduation-Works-Site/)
