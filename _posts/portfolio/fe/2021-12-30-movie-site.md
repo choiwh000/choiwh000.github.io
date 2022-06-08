@@ -42,6 +42,7 @@ categories:
 ### 📌Output
 
 [🏠 Demo](https://choiwh000.github.io/Movies)
+[💎 Code](https://github.com/choiwh000/Movies)
 
 ----
 

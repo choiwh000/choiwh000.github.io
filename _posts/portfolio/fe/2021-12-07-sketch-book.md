@@ -42,6 +42,7 @@ categories:
 ### 📌Output
 
 [🏠 Demo](https://choiwh000.github.io/Paint-JS/)
+[💎 Code](https://github.com/choiwh000/Paint-JS)
 
 ----
 
