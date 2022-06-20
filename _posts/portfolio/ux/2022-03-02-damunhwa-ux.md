@@ -30,4 +30,21 @@ categories:
 
 ----
 
-🚀현재 진행 중인 프로젝트입니다.🚀
+### 📌Output
+
+[🏠 최종 보고서](/assets/img/pofol/damunhwa/pdf.pdf)
+
+---
+
++ 메인페이지
+
+![그림1](/assets/img/pofol/damunhwa/main.jpg)
+
+----
+
++ 영상
+
+<div class="embed-container" >
+    <iframe src="https://www.youtube.com/embed/VDM6BY3N18s" frameborder="0" allowfullscreen="" onclick="ga('send', 'event', 'post', 'click', 'youtubePlayer');">
+    </iframe>
+</div>
